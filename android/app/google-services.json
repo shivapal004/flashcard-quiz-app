@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540215313406",
+    "project_id": "quizapp-ec44a",
+    "storage_bucket": "quizapp-ec44a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540215313406:android:8e604a873b38d33940f6af",
+        "android_client_info": {
+          "package_name": "shiva.tech.flashcard_quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx7VoP5qe3bRX5Y8qPXhgpcgb1nxRY9vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
